@@ -1,0 +1,5 @@
+{
+  "name": "Pattern Recognition Visualizer",
+  "description": "An interactive web application that allows users to define a visual pattern on a grid, search for it within a larger grid, and see the occurrences highlighted.",
+  "requestFramePermissions": []
+}
